@@ -1,0 +1,5 @@
+RESTFUL_BOOKER:
+  TEST_ENV:
+    SERVER:
+      PROTOCOL: https
+    ENV: restful-booker.herokuapp.com

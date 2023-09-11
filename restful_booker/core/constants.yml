@@ -1,0 +1,6 @@
+RESTFUL_BOOKER:
+  test_env:
+    SERVER:
+      PROTOCOL: https
+    USERS:
+      VALID_USER: {LOGINID: admin, PASSWORD: password123}

@@ -1,0 +1,7 @@
+Auth:
+  create_token: "/auth"
+Booking:
+  get_booking_ids: "/booking"
+  get_booking: "/booking/{id}"
+Healthcheck:
+  ping: "/ping"
